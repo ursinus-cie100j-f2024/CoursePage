@@ -1,5 +1,5 @@
 SECTION
-On Liberty
+First Half
 
 
 LECTURE
@@ -11,11 +11,15 @@ LECTURE
 
 <ul><li>Washington Post: <a href = "https://www.washingtonpost.com/archive/opinions/2001/02/11/a-reluctant-recruit-to-the-abolitionist-cause/3af87cea-c285-496c-8b81-7142fd6e911a/">"A Reluctant Recruit To The Abolitionist Cause"</a></li><li>Baltimore Sun: <a href = "https://www.baltimoresun.com/news/bs-xpm-2006-01-08-0601080044-story.html">"A Tale of Two Infamous Maryland Slave Houses"</li></ul>
 LECTURE
-Declaration of Independence, Douglass "What To The Slave is Fourth of July"
+Frederick Douglass Chronology
 
 
 LECTURE
-Continue Monday's discussions
+Declaration of Independence
+
+
+LECTURE
+Douglass "What To The Slave is Fourth of July"
 
 
 LECTURE
@@ -23,7 +27,11 @@ Elizabeth Cady Stanton: "Declaration of Sentiments"
 
 
 LECTURE
-Jackson: "The Lottery"
+Alexander: <i>The New Jim Crow</i> Ch. 1
+
+
+LECTURE
+Continue Jackson
 
 
 LECTURE
@@ -42,3 +50,131 @@ LECTURE
 Liberty in The Internet Age
 
 <ul><li>Reading: Excerpts from Weapons of Math Destruction</li></ul>
+LECTURE
+Smith, <i>Wealth of Nations</i> Part 1
+
+
+LECTURE
+Smith, <i>Wealth of Nations</i> Part 2
+
+
+LECTURE
+Smith, <i>Wealth of Nations</i> Part 3
+
+
+LECTURE
+Poetry Pairings: Blake, "London" + May, "<a href = "https://www.poetryfoundation.org/poetrymagazine/poems/56764/there-are-birds-here">There are Birds Here</a>"
+
+
+LECTURE
+Poetry Pairings: Shelley, "Song to the Men of England," + Jordan, "Poem about My Rights"
+
+
+LECTURE
+Continue Poetry Discussion
+
+
+LECTURE
+Baca, "<a href = "https://www.poetryfoundation.org/poems/49558/immigrants-in-our-own-land">Immigrants in Our Own Land</a>"; Wordsworth, "The World Is Too Much with Us," + Nye, "<a href = "https://www.poetryfoundation.org/poetrymagazine/browse?contentId=35150">Catalogue Army</a>"
+
+
+LECTURE
+Continue Poetry Discussion
+
+
+SECTION
+Second Half
+
+
+LECTURE
+Marx, <i>Communist Manifesto</i>, Chapter 1
+
+
+LECTURE
+Continue Marx Ch. 1
+
+
+LECTURE
+Marx, <i>Communist Manifesto</i>, Chapter 2
+
+
+LECTURE
+Continue Marx Ch. 2
+
+
+LECTURE
+Marx, <i>Communist Manifesto</i>, Chapter 4
+
+
+LECTURE
+Nottage, <i>Sweat</i>
+
+
+LECTURE
+Nottage, <i>Sweat</i>
+
+
+LECTURE
+Nottage, <i>Sweat</i>
+
+
+LECTURE
+Freud, <i>Civilization And Its Discontents</i>
+
+
+LECTURE
+Freud, <i>Civilization And Its Discontents</i>
+
+
+LECTURE
+Freud, <i>Civilization And Its Discontents</i>
+
+
+LECTURE
+Music: Cage 4'33"
+
+
+LECTURE
+Varese, <i>Poeme Electronique</i>
+
+
+LECTURE
+Penderecki, <i>Thredony, for the Victims of Hiroshima</i>
+
+
+LECTURE
+Alexander: <i>The New Jim Crow</i> Ch. 2
+
+
+LECTURE
+Alexander: <i>The New Jim Crow</i> Ch. 3, 5
+
+
+LECTURE
+Alexander: <i>The New Jim Crow</i> Ch. 6
+
+
+LECTURE
+Bechdel <i>Fun Home</i>
+
+
+LECTURE
+Bechdel <i>Fun Home</i>
+
+
+LECTURE
+Bechdel <i>Fun Home</i>
+
+
+LECTURE
+Bechdel <i>Fun Home</i>
+
+
+LECTURE
+Bechdel <i>Fun Home</i>
+
+
+LECTURE
+Course Wrap Up
+
+
