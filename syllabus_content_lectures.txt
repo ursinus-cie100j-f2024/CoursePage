@@ -89,7 +89,7 @@ Second Half
 LECTURE
 Marx, <i>Communist Manifesto</i>, Chapter 1
 
-
+<ul><li><a href = "https://www.history.com/news/socialism-communism-differences">History.com: How are socialism and communism different?</a></li></ul>
 LECTURE
 Continue Marx Ch. 1
 
@@ -147,7 +147,11 @@ Alexander: <i>The New Jim Crow</i> Ch. 2
 
 
 LECTURE
-Alexander: <i>The New Jim Crow</i> Ch. 3, 5
+Alexander: <i>The New Jim Crow</i> Ch. 3
+
+
+LECTURE
+Alexander: <i>The New Jim Crow</i> Ch. 5
 
 
 LECTURE
@@ -172,9 +176,5 @@ Bechdel <i>Fun Home</i>
 
 LECTURE
 Bechdel <i>Fun Home</i>
-
-
-LECTURE
-Course Wrap Up
 
 
