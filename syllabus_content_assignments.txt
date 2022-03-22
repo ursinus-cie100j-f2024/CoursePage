@@ -40,7 +40,7 @@ CIE Common Event: Diversity Monalogues
 <a href = "Papers/Paper2">Paper #2</a> Due
 
 2022-04-09
-<a href = "ClassExercises/Week9/Playwrite.pdf">Small play writing</a> assignment due by 6PM
+<a href = "ClassExercise/Week9/Playwrite.pdf">Small play writing</a> assignment due by 6PM
 
 2022-03-24
 Paper #3 First Draft Due
