@@ -131,11 +131,7 @@ Freud, <i>Civilization And Its Discontents</i>
 
 
 LECTURE
-Music: Cage 4'33"
-
-
-LECTURE
-Varese, <i>Poeme Electronique</i>
+Music: Cage 4'33", Varese, <i>Poeme Electronique</i>
 
 
 LECTURE
@@ -156,6 +152,10 @@ Alexander: <i>The New Jim Crow</i> Ch. 5
 
 LECTURE
 Alexander: <i>The New Jim Crow</i> Ch. 6
+
+
+LECTURE
+Benjamin: <i>Race After Technology: Abolitionist Tools for The New Jim Code</i> Introduction
 
 
 LECTURE
