@@ -137,6 +137,10 @@ Music: Cage 4'33", Varese, <i>Poeme Electronique</i>
 LECTURE
 Penderecki, <i>Thredony, for the Victims of Hiroshima</i>
 
+<ul><li><a href = "https://www.youtube.com/watch?v=HilGthRhwP8">Threnody Animated Score</a></li></ul>
+LECTURE
+Benjamin: <i>Race After Technology: Abolitionist Tools for The New Jim Code</i> Introduction
+
 
 LECTURE
 Alexander: <i>The New Jim Crow</i> Ch. 2
@@ -153,11 +157,7 @@ Alexander: <i>The New Jim Crow</i> Ch. 5
 LECTURE
 Alexander: <i>The New Jim Crow</i> Ch. 6
 
-
-LECTURE
-Benjamin: <i>Race After Technology: Abolitionist Tools for The New Jim Code</i> Introduction
-
-
+<ul><li><a href = "https://progressive.org/magazine/letter-nephew/">James Baldwin: A Letter To My Nephew</a></li></ul>
 LECTURE
 Bechdel <i>Fun Home</i>
 
