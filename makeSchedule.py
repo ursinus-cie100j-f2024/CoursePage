@@ -3,7 +3,7 @@ import datetime
 daysstr = ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun']
 #Last day of class 12/4
 #Final Examples 12/9-14
-FIRSTDAY = datetime.date(2024, 9, 23)
+FIRSTDAY = datetime.date(2024, 8, 23)
 Ds = [datetime.timedelta(3), datetime.timedelta(2), datetime.timedelta(2)] #Friday To Monday, Monday To Wednesday, Wednesday To Friday
 Holidays = {datetime.date(2024, 10, 14):"Fall Break", datetime.date(2024, 10, 16):"Fall Break", datetime.date(2024, 11, 27):"Thanksgiving", datetime.date(2024, 11, 29):"Thanksgiving"}
 
