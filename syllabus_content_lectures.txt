@@ -35,7 +35,7 @@ Aristophanes, <i>Lysistrata</i>
 
 
 LECTURE
-<a href = "https://www.ursinus.edu/offices/center-for-writing-and-speaking/resources-for-faculty/writing-materials-for-cie-100/">Writing Workshop</a>: Brainstorming Ideas and Choosing Quotations
+<a href = "https://www.ursinus.edu/offices/center-for-writing-and-speaking/resources-for-faculty/writing-materials-for-cie-100/">Writing Workshop</a>: <span style="color:blue">Brainstorming Ideas and Choosing Quotations (Bomberger Auditorium)</span>
 
 
 LECTURE
