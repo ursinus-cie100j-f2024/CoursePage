@@ -59,7 +59,7 @@ Plato, <i>Euthyphro</i>
 
 
 LECTURE
-<span style="color:blue"><u>Enrique Bostleman: Apertures and Borderscapes</u> at The Berman Museum of Art</span>
+<span style="color:blue"><u>Enrique Bostelmann: Apertures and Borderscapes</u> at The Berman Museum of Art</span>
 
 
 LECTURE
@@ -67,23 +67,23 @@ Plato, <i>Euthyphro</i>
 
 
 LECTURE
-<i>Genesis</i> chapters 1-22
+Bostelmann Retrospective, <i>Genesis</i> Pep Talk And Sacred Texts
 
 
 LECTURE
-<i>Genesis</i> chapters 1-22
+Flex Day
 
 
 LECTURE
-<i>Genesis</i> chapters 1-22
+<i>Genesis</i> chapters 1-10
 
 
 LECTURE
-Confucious, <i>Analects</i>
+<i>Genesis</i> chapters 11-22
 
 
 LECTURE
-Confucious, <i>Analects</i>
+Finish <i>Genesis</i>, Begin Confucious, <i>Analects</i>
 
 
 LECTURE
@@ -92,6 +92,10 @@ Confucious, <i>Analects</i>
 
 SECTION
 Second Half
+
+
+LECTURE
+Confucious, <i>Analects</i>
 
 
 LECTURE
@@ -104,10 +108,6 @@ Matthew 5-7 "Sermon on the Mount"
 
 LECTURE
 Luke 10 "The Good Samaritan"
-
-
-LECTURE
-Flex Day
 
 
 LECTURE
@@ -131,14 +131,6 @@ LECTURE
 
 
 LECTURE
-Deloria <i>God is Red</i>
-
-
-LECTURE
-Deloria, <i>God is Red</i>
-
-
-LECTURE
 Black Elk Speaks
 
 
@@ -152,6 +144,14 @@ LECTURE
 
 LECTURE
 <i>Persepolis</i>
+
+
+LECTURE
+Deloria <i>God is Red</i>
+
+
+LECTURE
+Deloria, <i>God is Red</i>
 
 
 LECTURE
