@@ -159,7 +159,7 @@ LECTURE
 
 
 LECTURE
-Coates: <i>Between The World And Me</i>
+<i>Persepolis</i>
 
 
 LECTURE
@@ -167,14 +167,16 @@ Coates: <i>Between The World And Me</i>
 
 
 LECTURE
-Select Your Quest (Tentative): AI: Past, Present, Future, And Hype
+Coates: <i>Between The World And Me</i>
 
 
 LECTURE
-Select Your Quest (Tentative): AI: Role in The Humanities
+Finish Coates, Select Your Quest: AI Primer: Basic Functions, Past, Present, Future, And Hype
 
 
 LECTURE
-Select Your Quest (Tentative): AI: Role in Education And Human Learning
+Select Your Quest: AI in Art And Music
+
+
 
 
